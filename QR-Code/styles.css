@@ -1,0 +1,42 @@
+body {
+  background-color: darkgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: auto;
+  padding-top: 80px;
+}
+
+.project {
+  background-color: white;
+  width: 55%;
+  border-radius: 10px 10px;
+  width: 500px;
+  margin: auto;
+}
+
+.qrcode-logo {
+  width: 130%;
+  margin: 10px 10px 10px;
+  padding: 19px 5px 19px;
+}
+
+img {
+  width: 70%;
+  border-radius: 10px 10px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  width: 80%;
+  margin: 0px 20px 20px;
+  font-family: sans-serif;
+  padding: 0px 21px 10px;
+}
+
+p {
+  color: gray;
+}
